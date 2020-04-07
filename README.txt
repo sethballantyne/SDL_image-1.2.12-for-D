@@ -2,7 +2,7 @@ SDL_image 1.2.12 for D
 Created by: Seth Ballantyne  <seth.ballantyne@gmail.com>
 
 This is a D binding to SDL_image I've created for my own use. 
-I've made in publically available on the off-chance someone else 
+I've made it publicly available on the off-chance someone else 
 might find it useful. This has only been tested on Windows. You'll 
 also need the SDL binding at https://github.com/sethballantyne/SDL-1.2.15-for-D,
 along with SDL_image.lib; grab it at /lib/x86/SDL.lib. 32-bit only at 
